@@ -9,7 +9,7 @@ import ButtonCount from './components/ButtonCount.vue'
 
 export default {
   name: 'app',
-  components:{
+  components: {
     ButtonCount
   }
 }
